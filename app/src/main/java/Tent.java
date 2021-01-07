@@ -15,6 +15,13 @@ import java.util.Date;
 class Tent {
     public static void main(String[] args) {
         Long longTime = getLongTime("19:55:55");
+        /**
+         * 这是第二次生活
+         * 123123123
+         *
+         *
+         *
+         */
         System.out.println(longTime);
     }
 
