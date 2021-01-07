@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/98cf3c69911bc21e39ea6e12a50bf47f/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a69f55557df4cca7181e13f040c17e41/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/01d4b277a7fca6b792341424c83c5567/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/3392cb7b65044fe48e88c1f80610f7e3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/f6072454d0d9fc405f6aecac6b640686/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/aacae3a625e02bf372560a1d475fef58/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ded53ea46e58f0816304af618f9b6eeb/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/38cab1f3de3cbfaedceeaca39af2e9d2/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/035ae9550421e2450dd55a8d062bf008/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/1c0ad789bd651fd8983601d2e18e8d87/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/8c873f9e703c3a7c34b34a63c6b7a567/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a7e3923d29a65192505b98d1794318dc/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/171938a82f04307eb142bd4d79e86354/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ec7590d6960f7a3f6e95a1f8552516be/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9db79ba821d4449dfbfd935f964f2669/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/704262b2eab7978fc206e27cb48f895b/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/5c19242ae1b51b6413da162958ff4e46/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/2996636b391560f85d73ca1d5a786061/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a183f3e63652015d53c2884babd2a826/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/b5afc8f283eca26245a5e12063568042/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/11592f4eaa6d22d84186018bc5bef437/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/7744d8b6364ab3d3f1623d5be31bbf33/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/171da0e27dce7e4c704d1811bb5f8179/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/86b1d7d22690cf48e8feb6aeb7227969/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9fc6c7efc4e37119553e44042609d249/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:1-115:12
+	package
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:6:5-40
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:8:5-97:19
+MERGED from [androidx.core:core:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ec7590d6960f7a3f6e95a1f8552516be/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ec7590d6960f7a3f6e95a1f8552516be/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9db79ba821d4449dfbfd935f964f2669/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9db79ba821d4449dfbfd935f964f2669/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ec7590d6960f7a3f6e95a1f8552516be/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:11:9-31
+	android:icon
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:9:9-38
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:10:9-33
+activity#com.iflytek.voicedemo.MainActivity
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:12:9-23:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:16:13-35
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:14:13-133
+	android:icon
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:15:13-42
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:13:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:21:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:24:19-72
+activity#com.iflytek.speech.setting.IatSettings
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:26:19-72
+activity#com.iflytek.voicedemo.IatDemo
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:28:9-32:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:31:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:30:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:29:13-57
+activity#com.iflytek.voicedemo.AsrDemo
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:33:9-37:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:35:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:34:13-57
+activity#com.iflytek.voicedemo.TtsDemo
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:38:9-42:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:41:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:40:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:39:13-57
+activity#com.iflytek.voicedemo.IseDemo
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:45:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:44:13-57
+activity#com.iflytek.voicedemo.vocalverify.VocalVerifyDemo
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:48:9-52:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:51:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:50:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:49:13-77
+activity#com.iflytek.voicedemo.faceonline.OnlineFaceDemo
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:53:9-57:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:55:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:54:13-75
+activity#com.iflytek.voicedemo.IdentifyGroup.GroupManagerActivity
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:60:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:59:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.FaceIdentifyActivity
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:66:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:65:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:64:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.VocalIdentifyActivity
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:68:9-72:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:71:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:70:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:69:13-85
+activity#com.iflytek.voicedemo.IdentifyGroup.ResultIdentifyActivity
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:73:9-77:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:76:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:75:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:74:13-86
+activity#com.iflytek.speech.setting.IseSettings
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:78:9-82:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:81:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:80:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:79:13-66
+activity#com.iflytek.speech.setting.UrlSettings
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:83:9-87:20
+	android:screenOrientation
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:86:13-49
+	android:configChanges
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:85:13-133
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:84:13-66
+meta-data#IFLYTEK_APPKEY
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:89:9-91:42
+	android:value
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:91:13-29
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:90:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:92:9-94:44
+	android:value
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:94:13-41
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:93:13-43
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:100:5-71
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:100:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:101:5-67
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:101:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:102:5-79
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:102:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:103:5-76
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:103:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:104:5-79
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:104:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:105:5-75
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:105:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:106:5-79
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:106:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:107:5-72
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:107:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:108:5-81
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:108:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:109:2-110:47
+	tools:ignore
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:110:9-44
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:109:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:111:2-77
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:111:19-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:113:5-81
+	android:name
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml:113:22-78
+uses-sdk
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/98cf3c69911bc21e39ea6e12a50bf47f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/98cf3c69911bc21e39ea6e12a50bf47f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a69f55557df4cca7181e13f040c17e41/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a69f55557df4cca7181e13f040c17e41/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/01d4b277a7fca6b792341424c83c5567/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/01d4b277a7fca6b792341424c83c5567/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/3392cb7b65044fe48e88c1f80610f7e3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/3392cb7b65044fe48e88c1f80610f7e3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/f6072454d0d9fc405f6aecac6b640686/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/f6072454d0d9fc405f6aecac6b640686/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/aacae3a625e02bf372560a1d475fef58/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/aacae3a625e02bf372560a1d475fef58/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ded53ea46e58f0816304af618f9b6eeb/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ded53ea46e58f0816304af618f9b6eeb/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/38cab1f3de3cbfaedceeaca39af2e9d2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/38cab1f3de3cbfaedceeaca39af2e9d2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/035ae9550421e2450dd55a8d062bf008/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/035ae9550421e2450dd55a8d062bf008/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/1c0ad789bd651fd8983601d2e18e8d87/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/1c0ad789bd651fd8983601d2e18e8d87/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/8c873f9e703c3a7c34b34a63c6b7a567/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/8c873f9e703c3a7c34b34a63c6b7a567/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a7e3923d29a65192505b98d1794318dc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a7e3923d29a65192505b98d1794318dc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/171938a82f04307eb142bd4d79e86354/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/171938a82f04307eb142bd4d79e86354/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ec7590d6960f7a3f6e95a1f8552516be/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/ec7590d6960f7a3f6e95a1f8552516be/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9db79ba821d4449dfbfd935f964f2669/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9db79ba821d4449dfbfd935f964f2669/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/704262b2eab7978fc206e27cb48f895b/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/704262b2eab7978fc206e27cb48f895b/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/5c19242ae1b51b6413da162958ff4e46/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/5c19242ae1b51b6413da162958ff4e46/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/2996636b391560f85d73ca1d5a786061/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/2996636b391560f85d73ca1d5a786061/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a183f3e63652015d53c2884babd2a826/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/a183f3e63652015d53c2884babd2a826/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/b5afc8f283eca26245a5e12063568042/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/b5afc8f283eca26245a5e12063568042/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/11592f4eaa6d22d84186018bc5bef437/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/11592f4eaa6d22d84186018bc5bef437/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/7744d8b6364ab3d3f1623d5be31bbf33/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/7744d8b6364ab3d3f1623d5be31bbf33/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/171da0e27dce7e4c704d1811bb5f8179/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/171da0e27dce7e4c704d1811bb5f8179/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/86b1d7d22690cf48e8feb6aeb7227969/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/86b1d7d22690cf48e8feb6aeb7227969/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9fc6c7efc4e37119553e44042609d249/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhanglichao/.gradle/caches/transforms-2/files-2.1/9fc6c7efc4e37119553e44042609d249/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		ADDED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglichao/MyApp/speechDemo/src/main/AndroidManifest.xml

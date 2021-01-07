@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:bind="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="user"
+            type="com.example.myapp.baen.UserBean" />
+
+        <variable
+            name="listener"
+            type="android.view.View.OnClickListener" />
+
+        <variable
+            name="imgar"
+            type="com.example.myapp.uitls.Image" />
+
+        <import type="java.util.ArrayList"/>
+
+                <variable
+                    name="listImg"
+                    type="ArrayList&lt;String>" />
+
+        <variable
+            name="index"
+            type="int" />
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{listener}"
+            android:text="点击" />
+
+        <Button
+            android:id="@+id/imagev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="图片" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@={user.name}" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:url="@{imgar.url}" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:url="@{listImg.get(index)}" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@{user.name}" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@{String.valueOf(user.agr)}" />
+
+    </LinearLayout>
+
+
+</layout>

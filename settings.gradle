@@ -1,0 +1,4 @@
+include ':mscV5PlusDemo'
+include ':speechDemo'
+include ':app'
+rootProject.name = "MyApp"

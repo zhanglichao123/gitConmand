@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.iflytek.voicedemo",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "2.0.1018.1013",
+        "outputFile": "speechDemo-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.iflytek.voicedemo",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}
